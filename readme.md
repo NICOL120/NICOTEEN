@@ -1,5 +1,5 @@
-# nicoteen
-**nicoteen** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
+# NICOTEEN
+**NICOTEEN** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
 
 ## Get started
 
